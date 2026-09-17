@@ -8,31 +8,31 @@ I’m a recent B.E. graduate in Data Science with a strong interest in software 
 
 I’m currently focused on strengthening my programming fundamentals and becoming a better engineer through consistent practice, hands-on projects, and understanding the concepts behind the code—not simply memorizing solutions.
 About Me
-🎓 B.E. in Data Science
-🐍 Currently strengthening my Python skills
-🧠 Studying Data Structures & Algorithms
-🏗️ Learning Object-Oriented Programming
-🗄️ Practicing SQL, MySQL, and DBMS
-📊 Exploring Data Science and Machine Learning
-🌐 Learning Python backend development with Flask
-🐧 Interested in Linux/Unix and core computer science
-💻 Building projects and maintaining my learning journey on GitHub
+- 🎓 B.E. in Data Science
+-🐍 Currently strengthening my Python skills
+-🧠 Studying Data Structures & Algorithms
+-🏗️ Learning Object-Oriented Programming
+-🗄️ Practicing SQL, MySQL, and DBMS
+-📊 Exploring Data Science and Machine Learning
+-🌐 Learning Python backend development with Flask
+-🐧 Interested in Linux/Unix and core computer science
+-💻 Building projects and maintaining my learning journey on GitHub
 
 Projects
-🎬 Movie Recommendation System
+- 🎬 Movie Recommendation System
 
 A Machine Learning based movie recommendation system built using Python.
 
 Technologies and concepts used:
 
-Python
-Pandas
-Scikit-learn
-Cosine Similarity
-Machine Learning
-Flask
-TMDB Dataset
-REST API
+- Python
+- Pandas
+- Scikit-learn
+- Cosine Similarity
+- Machine Learning
+- Flask
+- TMDB Dataset
+- REST API
 
 The project explores how movie information can be processed and used to generate recommendations based on similarity between movies.
 
@@ -60,13 +60,13 @@ I am looking for opportunities where I can work in a real technical environment,
 
 I'm particularly interested in:
 
-Software Engineering
-Python Development
-Data Structures & Algorithms
-Backend Development
-Data Science
-Machine Learning
-Data Engineering
+- Software Engineering
+- Python Development
+- Data Structures & Algorithms
+- Backend Development
+- Data Science
+- Machine Learning
+- Data Engineering
 Currently Working On
 🐍 Improving Python
 🧠 Data Structures & Algorithms
