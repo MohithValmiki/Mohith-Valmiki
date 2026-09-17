@@ -1,29 +1,30 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohith Valmiki
 =======================================================================================================================================
 
-Data Science Graduate
+## Data Science Graduate
 ---------------------
 
 I’m a recent B.E. graduate in Data Science with a strong interest in software engineering, data structures and algorithms, Python, databases, machine learning, and problem solving.
 
 I’m currently focused on strengthening my programming fundamentals and becoming a better engineer through consistent practice, hands-on projects, and understanding the concepts behind the code—not simply memorizing solutions.
-About Me
-- 🎓 B.E. in Data Science
--🐍 Currently strengthening my Python skills
--🧠 Studying Data Structures & Algorithms
--🏗️ Learning Object-Oriented Programming
--🗄️ Practicing SQL, MySQL, and DBMS
--📊 Exploring Data Science and Machine Learning
--🌐 Learning Python backend development with Flask
--🐧 Interested in Linux/Unix and core computer science
--💻 Building projects and maintaining my learning journey on GitHub
 
-Projects
+## About Me
+-  🎓 B.E. in Data Science
+- 🐍 Currently strengthening my Python skills
+- 🧠 Studying Data Structures & Algorithms
+- 🏗️ Learning Object-Oriented Programming
+- 🗄️ Practicing SQL, MySQL, and DBMS
+- 📊 Exploring Data Science and Machine Learning
+- 🌐 Learning Python backend development with Flask
+- 🐧 Interested in Linux/Unix and core computer science
+- 💻 Building projects and maintaining my learning journey on GitHub
+
+## Projects
 - 🎬 Movie Recommendation System
 
 A Machine Learning based movie recommendation system built using Python.
 
-Technologies and concepts used:
+## Technologies and concepts used:
 
 - Python
 - Pandas
@@ -36,7 +37,7 @@ Technologies and concepts used:
 
 The project explores how movie information can be processed and used to generate recommendations based on similarity between movies.
 
-My Learning Philosophy
+## My Learning Philosophy
 
 I believe that becoming a good programmer is not just about solving a large number of coding problems.
 
@@ -54,7 +55,7 @@ Understand → Implement → Practice → Build → Explain → Improve
 
 I use textbooks, documentation, university lectures, coding exercises, and practical projects to continuously improve my understanding.
 
-Career Goal
+## Career Goal
 
 I am looking for opportunities where I can work in a real technical environment, learn from experienced engineers, contribute to meaningful projects, and continue developing strong engineering fundamentals.
 
@@ -67,28 +68,28 @@ I'm particularly interested in:
 - Data Science
 - Machine Learning
 - Data Engineering
-Currently Working On
-🐍 Improving Python
-🧠 Data Structures & Algorithms
-🏗️ Object-Oriented Programming
-🗄️ SQL & DBMS
-📊 Data Science
-🤖 Classical Machine Learning
-🌐 Backend Development
-💻 Building projects for my GitHub portfolio
-GitHub
+## Currently Working On
+- 🐍 Improving Python
+- 🧠 Data Structures & Algorithms
+- 🏗️ Object-Oriented Programming
+- 🗄️ SQL & DBMS
+- 📊 Data Science
+- 🤖 Classical Machine Learning
+- 🌐 Backend Development
+- 💻 Building projects for my GitHub portfolio
+## GitHub
 
 This GitHub is a record of my learning journey.
 
 You'll find:
 
-📚 Practice implementations
-🧠 DSA exercises
-🐍 Python programs
-📊 Data Science projects
-🤖 Machine Learning projects
-🗄️ SQL practice
-🛠️ Experiments and personal projects
+- 📚 Practice implementations
+- 🧠 DSA exercises
+- 🐍 Python programs
+- 📊 Data Science projects
+- 🤖 Machine Learning projects
+- 🗄️ SQL practice
+- 🛠️ Experiments and personal projects
 
 I'm still learning, and I believe in improving one concept, one program, one problem, and one project at a time.
 
